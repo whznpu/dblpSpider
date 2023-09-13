@@ -8,8 +8,8 @@ class DblpspiderSpider(scrapy.Spider):
     allowed_domains = ["dblp.org"]
     # start_urls = ["https://dblp.org"]
     start_urls=['https://dblp.org/db/conf/']
-    years=['2022']
-    confs=['sigmod']
+    years=['2022','2021','2020']
+    confs=['sigmod','pvldb','icde']
     
     def start_requests(self):
         

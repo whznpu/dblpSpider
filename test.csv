@@ -1,0 +1,224 @@
+conf,title,year
+sigmod,"SIGMOD '22: International Conference on Management of Data, Philadelphia, PA, USA, June 12 - 17, 2022.",2022
+sigmod,Reflections on a Career in Computer Science.,2022
+sigmod,On a Quest for Combating Filter Bubbles and Misinformation.,2022
+sigmod,Is Data Management the Beating Heart of AI Systems?,2022
+sigmod,"Ad Hoc Transactions in Web Applications: The Good, the Bad, and the Ugly.",2022
+sigmod,"Plor: General Transactions with Predictable, Low Tail Latency.",2022
+sigmod,Skeena: Efficient and Consistent Cross-Engine Transactions.,2022
+sigmod,Diva: Making MVCC Systems HTAP-Friendly.,2022
+sigmod,Hybrid Deterministic and Nondeterministic Execution of Transactions in Actor Systems.,2022
+sigmod,Optimizing Recursive Queries with Progam Synthesis.,2022
+sigmod,WeTune: Automatic Discovery and Verification of Query Rewrite Rules.,2022
+sigmod,Conjunctive Queries with Comparisons.,2022
+sigmod,Efficient Massively Parallel Join Optimization for Large Queries.,2022
+sigmod,Efficient Incrementialization of Correlated Nested Aggregate Queries using Relative Partial Aggregate Indexes (RPAI).,2022
+sigmod,Serenade - Low-Latency Session-Based Recommendation in e-Commerce at Scale.,2022
+sigmod,Neural Subgraph Counting with Wasserstein Estimator.,2022
+sigmod,Statistical Schema Learning with Occam's Razor.,2022
+sigmod,"DB-BERT: A Database Tuning Tool that ""Reads the Manual"".",2022
+sigmod,PreQR: Pre-training Representation for SQL Understanding.,2022
+sigmod,DataPrism: Exposing Disconnect between Data and Systems.,2022
+sigmod,Through the Data Management Lens: Experimental Analysis and Evaluation of Fair Classification.,2022
+sigmod,Interpretable Data-Based Explanations for Fairness Debugging.,2022
+sigmod,Rank Aggregation with Proportionate Fairness.,2022
+sigmod,Causal Feature Selection for Algorithmic Fairness.,2022
+sigmod,TSUBASA: Climate Network Construction on Historical and Real-Time Data.,2022
+sigmod,DenForest: Enabling Fast Deletion in Incremental Density-Based Clustering over Sliding Windows.,2022
+sigmod,AutoMon: Automatic Distributed Monitoring for Arbitrary Multivariate Functions.,2022
+sigmod,GraphZeppelin: Storage-Friendly Sketching for Connected Components on Dynamic Graph Streams.,2022
+sigmod,DLACEP: A Deep-Learning Based Framework for Approximate Complex Event Processing.,2022
+sigmod,Understanding Queries by Conditional Instances.,2022
+sigmod,Complaint-Driven Training Data Debugging at Interactive Speeds.,2022
+sigmod,Parallel Rule Discovery from Large Datasets by Sampling.,2022
+sigmod,Reptile: Aggregation-level Explanations for Hierarchical Data.,2022
+sigmod,Hierarchical Entity Resolution using an Oracle.,2022
+sigmod,Entity Resolution with Hierarchical Graph Attention Networks.,2022
+sigmod,Domain Adaptation for Deep Entity Resolution.,2022
+sigmod,Compact Walks: Taming Knowledge-Graph Embeddings with Domain- and Task-Specific Pathways.,2022
+sigmod,HET-GMP: A Graph-based System Approach to Scaling Large Embedding Model Training.,2022
+sigmod,NuPS: A Parameter Server for Machine Learning with Non-Uniform Parameter Access.,2022
+sigmod,Finding Label and Model Errors in Perception Data With Learned Observation Assertions.,2022
+sigmod,Nautilus: An Optimized System for Deep Transfer Learning over Evolving Training Datasets.,2022
+sigmod,Spine: Scaling up Programming-by-Negative-Example for String Filtering and Transformation.,2022
+sigmod,One Size Does Not Fit All: A Bandit-Based Sampler Combination Framework with Theoretical Guarantees.,2022
+sigmod,Zeus: Efficiently Localizing Actions in Videos using Reinforcement Learning.,2022
+sigmod,FiGO: Fine-Grained Query Optimization in Video Analytics.,2022
+sigmod,Redundancy Elimination in Distributed Matrix Computation.,2022
+sigmod,End-to-end Optimization of Machine Learning Prediction Queries.,2022
+sigmod,EVA: A Symbolic Approach to Accelerating Exploratory Video Analytics with Materialized Views.,2022
+sigmod,Tastes Great! Less Filling! High Performance and Accurate Training Data Collection for Self-Driving Database Management Systems.,2022
+sigmod,Towards Dynamic and Safe Configuration Tuning for Cloud Databases.,2022
+sigmod,HUNTER: An Online Cloud Database Hybrid Tuning System for Personalized Requirements.,2022
+sigmod,ISUM: Efficiently Compressing Large and Complex Workloads for Scalable Index Tuning.,2022
+sigmod,LOCAT: Low-Overhead Online Configuration Auto-Tuning of Spark SQL Applications.,2022
+sigmod,"ScaleStore: A Fast and Cost-Efficient Storage Engine using DRAM, NVMe, and RDMA.",2022
+sigmod,Proteus: Autonomous Adaptive Storage for Mixed Workloads.,2022
+sigmod,Natto: Providing Distributed Transaction Prioritization for High-Contention Workloads.,2022
+sigmod,Confidence Bounded Replica Currency Estimation.,2022
+sigmod,MinMax Sampling: A Near-optimal Global Summary for Aggregation in the Wide Area.,2022
+sigmod,R2T: Instance-optimal Truncation for Differentially Private Query Evaluation with Foreign Keys.,2022
+sigmod,Network Shuffling: Privacy Amplification via Random Walks.,2022
+sigmod,Unsupervised Contextual Anomaly Detection for Database Systems.,2022
+sigmod,Towards Practical Oblivious Join.,2022
+sigmod,IncShrink: Architecting Efficient Outsourced Databases using Incremental MPC and Differential Privacy.,2022
+sigmod,A Convex-Programming Approach for Efficient Directed Densest Subgraph Discovery.,2022
+sigmod,Efficient Algorithms for Maximal k-Biplex Enumeration.,2022
+sigmod,Hunting Temporal Bumps in Graphs with Dynamic Vertex Properties.,2022
+sigmod,DMCS : Density Modularity based Community Search.,2022
+sigmod,On Scalable Computation of Graph Eccentricities.,2022
+sigmod,HAP: An Efficient Hamming Space Index Based on Augmented Pigeonhole Principle.,2022
+sigmod,Balsa: Learning a Query Optimizer Without Expert Demonstrations.,2022
+sigmod,LearnedSQLGen: Constraint-aware SQL Generation using Reinforcement Learning.,2022
+sigmod,Selectivity Functions of Range Queries are Learnable.,2022
+sigmod,Lightweight and Accurate Cardinality Estimation by Neural Network Gaussian Process.,2022
+sigmod,X-SSD: A Storage System with Native Support for Database Logging and Replication.,2022
+sigmod,GaccO - A GPU-accelerated OLTP DBMS.,2022
+sigmod,Triton Join: Efficiently Scaling to a Large Join State on GPUs with Fast Interconnects.,2022
+sigmod,Sherman: A Write-Optimized Distributed B+Tree Index on Disaggregated Memory.,2022
+sigmod,Halo: A Hybrid PMem-DRAM Persistent Hash Index with Fast Recovery.,2022
+sigmod,LDP-IDS: Local Differential Privacy for Infinite Data Streams.,2022
+sigmod,Rethinking Stateful Stream Processing with RDMA.,2022
+sigmod,HYPERSONIC: A Hybrid Parallelization Approach for Scalable Complex Event Processing.,2022
+sigmod,Approximate Range Thresholding.,2022
+sigmod,Gloria: Graph-based Sharing Optimizer for Event Trend Aggregation.,2022
+sigmod,SIEVE: A Space-Efficient Algorithm for Viterbi Decoding.,2022
+sigmod,TxtAlign: Efficient Near-Duplicate Text Alignment Search via Bottom-k Sketches for Plagiarism Detection.,2022
+sigmod,Classifier Construction Under Budget Constraints.,2022
+sigmod,dCAM: Dimension-wise Class Activation Map for Explaining Multivariate Data Series Classification.,2022
+sigmod,CoLES: Contrastive Learning for Event Sequences with Self-Supervision.,2022
+sigmod,Anchored Densest Subgraph.,2022
+sigmod,Learned Cardinality Estimation: An In-depth Study.,2022
+sigmod,LSched: A Workload-Aware Learned Query Scheduler for Analytical Database Systems.,2022
+sigmod,Efficient Evaluation of Arbitrarily-Framed Holistic SQL Aggregates and Window Functions.,2022
+sigmod,HINT: A Hierarchical Index for Intervals in Main Memory.,2022
+sigmod,Camel: Managing Data for Efficient Stream Learning.,2022
+sigmod,In-Database Machine Learning with CorgiPile: Stochastic Gradient Descent without Full Data Shuffle.,2022
+sigmod,NeutronStar: Distributed GNN Training with Hybrid Dependency Management.,2022
+sigmod,BlindFL: Vertical Federated Machine Learning without Peeking into Your Data.,2022
+sigmod,The Price of Tailoring the Index to Your Data: Poisoning Attacks on Learned Index Structures.,2022
+sigmod,Optimizing Data-intensive Systems in Disaggregated Data Centers with TELEPORT.,2022
+sigmod,TCUDB: Accelerating Database with Tensor Processors.,2022
+sigmod,P4DB - The Case for In-Network OLTP.,2022
+sigmod,Tile-based Lightweight Integer Compression in GPU.,2022
+sigmod,Avoiding Read Stalls on Flash Storage.,2022
+sigmod,TimeUnion: An Efficient Architecture with Unified Data Model for Timeseries Management Systems on Hybrid Cloud Storage.,2022
+sigmod,Optimizing Parallel Recursive Datalog Evaluation on Multicore Machines.,2022
+sigmod,Parallel Query Processing: To Separate Communication from Computation.,2022
+sigmod,Secure and Policy-Compliant Query Processing on Heterogeneous Computational Storage Architectures.,2022
+sigmod,Litmus: Towards a Practical Database Management System with Verifiable ACID Properties and Transaction Correctness.,2022
+sigmod,Annotating Columns with Pre-trained Language Models.,2022
+sigmod,Leva: Boosting Machine Learning Performance with Relational Embedding Data Augmentation.,2022
+sigmod,Cooperative Route Planning Framework for Multiple Distributed Assets in Maritime Applications.,2022
+sigmod,Budget-aware Index Tuning with Reinforcement Learning.,2022
+sigmod,SAM: Database Generation from Query Workloads with Supervised Autoregressive Models.,2022
+sigmod,Efficient Answering of Historical What-if Queries.,2022
+sigmod,Computing the Shapley Value of Facts in Query Answering.,2022
+sigmod,JEDI: These aren't the JSON documents you're looking for?,2022
+sigmod,HypeR: Hypothetical Reasoning With What-If and How-To Queries Using a Probabilistic Causal Approach.,2022
+sigmod,Adaptive Threshold Sampling.,2022
+sigmod,Adaptive Hybrid Indexes.,2022
+sigmod,Entropy-Learned Hashing: Constant Time Hashing with Controllable Uniformity.,2022
+sigmod,CompressDB: Enabling Efficient Compressed Data Direct Processing for Various Databases.,2022
+sigmod,Proteus: A Self-Designing Range Filter.,2022
+sigmod,Scalable Time Series Compound Infrastructure.,2022
+sigmod,PI2: End-to-end Interactive Visualization Interface Generation from Queries.,2022
+sigmod,A Hierarchical Contraction Scheme for Querying Big Graphs.,2022
+sigmod,Representative Query Results by Voting.,2022
+sigmod,Protecting Data Markets from Strategic Buyers.,2022
+sigmod,Automated Category Tree Construction in E-Commerce.,2022
+sigmod,FILA: Online Auditing of Machine Learning Model Accuracy under Finite Labelling Budget.,2022
+sigmod,Evaluating Multi-GPU Sorting with Modern Interconnects.,2022
+sigmod,How Good is My HTAP System?,2022
+sigmod,Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines.,2022
+sigmod,Juggler: Autonomous Cost Optimization and Performance Prediction of Big Data Applications.,2022
+sigmod,Sintel: A Machine Learning Framework to Extract Insights from Signals.,2022
+sigmod,Serverless Data Science - Are We There Yet? A Case Study of Model Serving.,2022
+sigmod,Sommelier: Curating DNN Models for the Masses.,2022
+sigmod,FuseME: Distributed Matrix Computation Engine based on Cuboid-based Fused Operator and Plan Generation.,2022
+sigmod,Video-zilla: An Indexing Layer for Large-Scale Video Analytics.,2022
+sigmod,Warper: Efficiently Adapting Learned Cardinality Estimators to Data and Workload Drifts.,2022
+sigmod,TASTI: Semantic Indexes for Machine Learning-based Queries over Unstructured Data.,2022
+sigmod,Givens QR Decomposition over Relational Databases.,2022
+sigmod,Materialization and Reuse Optimizations for Production Data Science Pipelines.,2022
+sigmod,Scalable and Effective Bipartite Network Embedding.,2022
+sigmod,Relative Subboundedness of Contraction Hierarchy and Hierarchical 2-Hop Index in Dynamic Road Networks.,2022
+sigmod,One Set to Cover All Maximal Cliques Approximately.,2022
+sigmod,BatchHL: Answering Distance Queries on Batch-Dynamic Networks at Scale.,2022
+sigmod,Fast Maximal Clique Enumeration on Uncertain Graphs: A Pivot-based Approach.,2022
+sigmod,Efficient Personalized PageRank Computation: A Spanning Forests Sampling Based Approach.,2022
+sigmod,Explaining Link Prediction Systems based on Knowledge Graph Embeddings.,2022
+sigmod,Computing Complex Temporal Join Queries Efficiently.,2022
+sigmod,OTIF: Efficient Tracker Pre-processing over Large Video Datasets.,2022
+sigmod,Controlled Intentional Degradation in Analytical Video Systems.,2022
+sigmod,SLAM: Efficient Sweep Line Algorithms for Kernel Density Visualization.,2022
+sigmod,Faster and Better Solution to Embed Lp Metrics by Tree Metrics.,2022
+sigmod,T-LevelIndex: Towards Efficient Query Processing in Continuous Preference Space.,2022
+sigmod,Scaling Equi-Joins.,2022
+sigmod,HiEngine: How to Architect a Cloud-Native Memory-Optimized Database Engine.,2022
+sigmod,KafkaDirect: Zero-copy Data Access for Apache Kafka over RDMA Networks.,2022
+sigmod,Amazon Redshift Re-invented.,2022
+sigmod,LedgerView: Access-Control Views on Hyperledger Fabric.,2022
+sigmod,Remus: Efficient Live Migration for Distributed Databases with Snapshot Isolation.,2022
+sigmod,Graph Pattern Matching in GQL and SQL/PGQ.,2022
+sigmod,Saga: A Platform for Continuous Construction and Serving of Knowledge at Scale.,2022
+sigmod,Intelligent Automated Workload Analysis for Database Replatforming.,2022
+sigmod,ESDB: Processing Extremely Skewed Workloads in Real-time.,2022
+sigmod,Deploying a Steered Query Optimizer in Production at Microsoft.,2022
+sigmod,Enabling the Next Generation of Multi-Region Applications with CockroachDB.,2022
+sigmod,Photon: A Fast Query Engine for Lakehouse Systems.,2022
+sigmod,Cloud-Native Transactions and Analytics in SingleStore.,2022
+sigmod,Sevi: Speech-to-Visualization through Neural Machine Translation.,2022
+sigmod,Everest: A Top-K Deep Video Analytics System.,2022
+sigmod,Mondrian: Spreadsheet Layout Detection.,2022
+sigmod,Demonstration of PI2: Interactive Visualization Interface Generation for SQL Analysis in Notebook.,2022
+sigmod,SubTab: Data Exploration with Informative Sub-Tables.,2022
+sigmod,ShapGraph: An Holistic View of Explanations through Provenance Graphs and Shapley Values.,2022
+sigmod,Simplifying Access to Large-scale Structured Datasets by Meta-Profiling with Scalable Training Set Enrichment.,2022
+sigmod,PLAYPEN: Plug-and-Play Visual Graph Query Interfaces for Top-down and Bottom-Up Search on Large Networks.,2022
+sigmod,VoiceQuerySystem: A Voice-driven Database Querying System Using Natural Language Questions.,2022
+sigmod,Snakes on a Plan: Compiling Python Functions into Plain SQL Queries.,2022
+sigmod,Demonstrating ASET: Ad-hoc Structured Exploration of Text Collections.,2022
+sigmod,Efficient Insights Discovery through Conditional Generative Model based Query Approximation.,2022
+sigmod,CFDB: Machine Learning Model Analysis via Databases of CounterFactuals.,2022
+sigmod,OpenTFV: An Open Domain Table-Based Fact Verification System.,2022
+sigmod,Pythia: Unsupervised Generation of Ambiguous Textual Claims from Relational Data.,2022
+sigmod,LANTERN: Boredom-conscious Natural Language Description Generation of Query Execution Plans for Database Education.,2022
+sigmod,GHive: A Demonstration of GPU-Accelerated Query Processing in Apache Hive.,2022
+sigmod,DeepO: A Learned Query Optimizer.,2022
+sigmod,Demonstration of VegaPlus: Optimizing Declarative Visualization Languages.,2022
+sigmod,Compactionary: A Dictionary for LSM Compactions.,2022
+sigmod,Generating Interpretable Data-Based Explanations for Fairness Debugging using Gopher.,2022
+sigmod,"Demonstrating DB-BERT: A Database Tuning Tool that ""Reads"" the Manual.",2022
+sigmod,"Data-driven Visual Query Interfaces for Graphs: Past, Present, and (Near) Future.",2022
+sigmod,An Introduction to Federated Computation.,2022
+sigmod,"Explainable AI: Foundations, Applications, Opportunities for Data Management Research.",2022
+sigmod,Responsible Data Integration: Next-generation Challenges.,2022
+sigmod,"Multi-Tenant Cloud Data Services: State-of-the-Art, Challenges and Opportunities.",2022
+sigmod,Spatial Data Quality in the IoT Era: Management and Exploitation.,2022
+sigmod,HTAP Databases: What is New and What is Next.,2022
+sigmod,"Dissecting, Designing, and Optimizing LSM-based Data Stores.",2022
+sigmod,"The DB Community vis-à-vis Environmental, Health, and Societal Grand Challenges: Innovation Engine, Plumber, or Bystander?",2022
+sigmod,Publication Culture and Review Processes in the Data Management Community: An Open Discussion.,2022
+sigmod,Concurrent Link-Cut Trees.,2022
+sigmod,Cost-efficiency and Performance Robustness in Serverless Data Exchange.,2022
+sigmod,An Approach for Unlabeled Tasks Prioritization.,2022
+sigmod,Applicability of Quantum Computing on Database Query Optimization.,2022
+sigmod,Tuning Hierarchical Learned Indexes on Disk and Beyond.,2022
+sigmod,Hindering Influence Diffusion of Community.,2022
+sigmod,SparRL: Graph Sparsification via Deep Reinforcement Learning.,2022
+sigmod,Live Patching Database Management Systems.,2022
+sigmod,DeepOLA: Online Aggregation for Deeply Nested Queries.,2022
+sigmod,Lineage Resource Manager.,2022
+sigmod,Workload-Adaptive Filtering in Storage Engines.,2022
+sigmod,Interactive Query Explanations Using Fine Grained Provenance.,2022
+sigmod,A Recommender Algorithm to Automatically Generate Metrics for GQM Models in Software Development.,2022
+sigmod,BiDEDE'22: Second International Workshop on Big Data in Emergent Distributed Environments.,2022
+sigmod,Theory and Practice of Provenance.,2022
+sigmod,GRADES-NDA'22: 5th International Workshop on Graph Data management Experiences and Systems (GRADES) and Network Data Analytics (NDA).,2022
+sigmod,DEEM'22: Data Management for End-to-End Machine Learning.,2022
+sigmod,aiDM'22: Fifth International Workshop on Exploiting Artificial Intelligence Techniques for Data Management.,2022
+sigmod,HILDA'22: The SIGMOD 2022 Workshop on Human-in-the-Loop Data Analytics.,2022
+sigmod,DBTest '22: 9th International Workshop on Testing Database Systems.,2022
+sigmod,DataEd'22 - 1st International Workshop on Data Systems Education: Bridging Education Practice with Education Research.,2022
+sigmod,International Workshop on Data Management on New Hardware (DaMoN).,2022
